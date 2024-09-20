@@ -1,0 +1,2 @@
+print('Tere,kool!')
+sum
